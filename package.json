@@ -1,6 +1,6 @@
 {
   "name": "@asciidoc-js/reasciidoc-remark",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "reasciidoc plugin to transform to remark",
   "license": "MIT",
   "keywords": [
